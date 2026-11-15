@@ -608,7 +608,7 @@ arch-gemm-lab/
 ├── experiment.md                # 实验方案
 ├── report/
 │   ├── experiment.md            # 本文件
-│   └── report.md          		 # 最终报告
+│   └── report.md                # 最终报告
 └── gemm-lab/
     ├── src/                     # T0–T6 与 best
     ├── data/                    # 原始 CSV
