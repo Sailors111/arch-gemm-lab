@@ -136,7 +136,7 @@ Tensor Core、AMX、SME 和混合精度仅作调研。
 
 ### 图片
 
-![GEMM 实验流程：选定变体与参数，生成输入和参考结果，热身，首次计时后校验，自适应重复测量，汇总并绘图](picture/06_experiment_workflow.png)
+![GEMM 实验流程：选定变体与参数，生成输入和参考结果，热身，首次计时后校验，自适应重复测量，汇总并绘图](picture/04_experiment_workflow.png)
 
 ---
 
