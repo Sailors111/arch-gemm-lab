@@ -162,7 +162,7 @@ Tensor Core、AMX、SME 和混合精度仅作调研。
 **绝对吞吐量**衡量每秒完成的浮点运算量，单位为 GFLOPS。每次运行单独计算吞吐量，再取中位数。
 
 $$
-P_v = \operatorname{median}_{r}\!\left(\frac{2n^3}{10^9\,t_{v,r}}\right)
+P_v = median_r\!\left(\frac{2n^3}{10^9\,t_{v,r}}\right)
 $$
 
 **相对 T0 加速比**衡量当前实现相对朴素基线 T0 快了多少倍。
